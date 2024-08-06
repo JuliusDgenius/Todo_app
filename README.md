@@ -7,7 +7,8 @@ a task, update a task and delete a task. It is based on the tutorial
 [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 by [Miguel Grinberg](https://blog.miguelgrinberg.com/author/Miguel%20Grinberg).
 
-How to Use
+How to Use:
+
 Since this is a basic app, you can test it on the command-line using [curl](http://curl.haxx.se/).
 
 First run the program in a terminal like so:\
