@@ -21,7 +21,7 @@ Once the app is running, open another terminal and issue requests for the url.\
 will get a single task by task id.
 
 `curl -i -X POST -d {"title":"Read a book"} http://localhost/todo/api/v1.0/tasks`\
-will create a new task with the title of 'Read a book'. The descritpion can be an empty string.\
+will create a new task with the title of 'Read a book'. The descritpion can be an empty string.
 
 `curl -i -X PUT -d {"title":"Do laundry"} http://localhost/todo/api/v1.0/tasks/[task_id]`\
 will update the title of a task with the given task id to 'Do laundry'.
