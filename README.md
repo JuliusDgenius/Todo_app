@@ -4,4 +4,5 @@ build a RESTful API using flask and python.
 This is only a basic app that does nothing much other than provide urls via
 which you can query the server and get tasks in the in-memory database, post
 a task, update a task and delete a task. It is based on the tutorial
-Designing a RESTful API with Python and Flask by Miguel Grinberg.
+[Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+by [Miguel Grinberg](https://blog.miguelgrinberg.com/author/Miguel%20Grinberg).
